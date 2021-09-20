@@ -1,1 +1,1 @@
-# initscripts
+# C/C++ Initialization Scripts
